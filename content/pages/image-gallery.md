@@ -1,10 +1,12 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: afdcc7a4-75bc-c296-b94a-c28d54efed82
 ---
 
-{{< image-gallery id="afdcc7a4-75bc-c296-b94a-c28d54efed82_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/" >}}
+{{< image-gallery id="afdcc7a4-75bc-c296-b94a-c28d54efed82_nanogallery2" baseUrl="/courses/11-027-city-to-city-comparing-researching-and-writing-about-cities-new-orleans-spring-2011/" >}}
 {{< image-gallery-item href="95636e21ba169aeab05479cf0940a014_0000.jpg" data-ngdesc="Parades are common attractions in the Historic French Quarter; tourists/crowds reach out for beads and other free give-aways from the participants (even free kisses!) This was taken during the St. Josephs Day Parade. Image courtesy of William Chin." text="Parades are common attractions in the Historic French Quarter; tourists/crowds reach out for beads and other free give-aways from the participants (even free kisses!) This was taken during the St. Josephs Day Parade" >}}
 {{< image-gallery-item href="d92428a92ade06f2a935e568cf2a1392_0111.jpg" data-ngdesc="Students visited the site of the Carter G. Woodson Elementary School, being rebuilt by the NO Recovery School District in Central City. Image courtesy of William Chin." text="Students visited the site of the Carter G. Woodson Elementary School, being rebuilt by the NO Recovery School District in Central City." >}}
 {{< image-gallery-item href="94a24ffe4cfad4bdcd93474fd3a2409d_0116.jpg" data-ngdesc="A tree-lined street in the Central City area near the rebuilding of the Woodson Elementary School. Image courtesy of William Chin." text="A tree-lined street in the Central City area near the rebuilding of the Woodson Elementary School." >}}

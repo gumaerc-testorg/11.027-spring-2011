@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: e4257a67-77b4-216f-41b2-deab0b53a919
 resourcetype: Document
 title: MIT11_027S11_nolaguide.pdf
 uid: 9e538fd5-149b-1b41-f9cc-2e2a5030913b

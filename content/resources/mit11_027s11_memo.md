@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 5e7dafe4-8f73-8fc4-0cba-aac1b7f74596
 resourcetype: Document
 title: Memo Writing Guidelines
 uid: f9f89f1b-627c-d990-6974-90e477045190

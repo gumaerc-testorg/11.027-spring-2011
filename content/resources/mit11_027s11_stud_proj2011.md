@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 6e80a167-da1f-4d16-1477-3d8781591d44
 resourcetype: Document
 title: MIT11_027S11_Stud_Proj2011.pdf
 uid: e3712930-209a-a4d3-c90c-9a4b4abf3824

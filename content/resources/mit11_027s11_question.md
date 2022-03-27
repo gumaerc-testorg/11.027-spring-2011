@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 272e4965-1a12-a2a2-75c8-28826a0a35a4
 resourcetype: Document
 title: MIT11_027S11_question.pdf
 uid: b62b1804-3744-c777-ed33-7b167b3d5c4a

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: e4257a67-77b4-216f-41b2-deab0b53a919
 resourcetype: Document
 title: MIT11_027S11_decision_memo.pdf
 uid: ac0bd02a-50b0-9574-9c73-7bdc769d9f86

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on an assignment to create a short
+  presentation discussing project findings.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

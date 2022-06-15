@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a gallery of photographs taken for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Image Gallery

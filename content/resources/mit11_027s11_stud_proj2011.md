@@ -5,6 +5,7 @@ file: /courses/11-027-city-to-city-comparing-researching-and-writing-about-citie
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT11_027S11_Stud_Proj2011.pdf
 uid: e3712930-209a-a4d3-c90c-9a4b4abf3824
 ---
 This resource includes transit oriented projects.
-

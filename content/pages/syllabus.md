@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, requirements, and evaluation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 272e4965-1a12-a2a2-75c8-28826a0a35a4
 ---
@@ -12,7 +16,7 @@ Seminars: 2 sessions / week, 2 hours / session
 Prerequisites
 -------------
 
-There are no prerequisites for this course. However, students were asked to fill out this questionnaire prior to class. ([PDF]({{< baseurl >}}/resources/mit11_027s11_question))
+There are no prerequisites for this course. However, students were asked to fill out this questionnaire prior to class. ({{% resource_link b62b1804-3744-c777-ed33-7b167b3d5c4a "PDF" %}})
 
 Overview
 --------

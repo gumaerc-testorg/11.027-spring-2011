@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section provides information on an assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 08b4fc6c-d34c-a81d-e0fb-036b5ed8be07
 title: Baseline Analysis
 uid: f63923fe-a36a-1a4f-4105-23263158e3a0

@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section provides a list of potential topics for the course project.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 6e80a167-da1f-4d16-1477-3d8781591d44
 ---
 
 City to City students will work on projects through the Spring Semester. Students will travel from Cambridge to New Orleans over spring break to meet and consult with their alumni clients, and continue to work on projects. Here is a list of potential projects:
 
-The City of New Orleans has requested that students help tackle the blight problem in New Orleans. Here is a list of other projects needed in New Orleans. ([PDF]({{< baseurl >}}/resources/mit11_027s11_stud_proj2011))
+The City of New Orleans has requested that students help tackle the blight problem in New Orleans. Here is a list of other projects needed in New Orleans. ({{% resource_link e3712930-209a-a4d3-c90c-9a4b4abf3824 "PDF" %}})
 
 1.  **Turning the Corner**: Building on an analysis of street corners located throughout New Orleans, students will work for the City of New Orleans to investigate how corners can be a catalyst for redevelopment. Can we identify and catalogue the mix of businesses and retail establishments on the corner? What elements draw and repel people to the area? What factor(s) need to be taken into account when considering the redevelopment of a corner?
   

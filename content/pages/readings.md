@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section provides the readings for each topic of the course. '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5e7dafe4-8f73-8fc4-0cba-aac1b7f74596
 ---
@@ -88,7 +92,7 @@ New Orleans today
 {{< tdopen >}}
 
 
-Wong, Elaine. "Rewinding to the Past: New Orleans Architecture." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/sigus/www/NEW/files/Rewinding_New_Orleans.pdf))
+Wong, Elaine. "Rewinding to the Past: New Orleans Architecture." ([PDF](http://web.mit.edu/sigus/www/NEW/files/Rewinding_New_Orleans.pdf))
 
 "A Strategy for Rebuilding New Orleans, Louisiana." Urban Land Institute. November 12-18, 2005.
 
@@ -161,7 +165,7 @@ Zusy, Cathie. "Community Engagement with History: If This House Could Talk...;" 
 Writing successful memos
 {{< tdclose >}}
 {{< tdopen >}}
-Memo writing guidelines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit11_027s11_memo))
+Memo writing guidelines ({{% resource_link f9f89f1b-627c-d990-6974-90e477045190 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +176,7 @@ Being a successful public speaker
 {{< tdopen >}}
 
 
-Presentation on oral presentations ([PDF]({{< baseurl >}}/resources/mit11_027s11_presentation))
+Presentation on oral presentations ({{% resource_link c1517847-99ae-9d76-16b8-262b024f381b "PDF" %}})
 
 [Barack Obama's remarks to the Democratic National Convention](http://www.nytimes.com/2004/07/27/politics/campaign/27TEXT-OBAMA.html?pagewanted=all). July 2004.
 

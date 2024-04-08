@@ -19,4 +19,4 @@ While specific research tasks will depend on the project and the client, tasks m
 
 Based on this detailed research, students will develop findings and recommendations for their final plans. These findings and recommendations will be presented to the client in a 5-10 page memo.
 
-[Formal report components](http://faculty.mccombs.utexas.edu/kristie.loescher/assignments/project%20report.htm)
+{{% resource_link "d67adbc9-a809-4d42-93a5-20b2881863ad" "Formal report components" %}}

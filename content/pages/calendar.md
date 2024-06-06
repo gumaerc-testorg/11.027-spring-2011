@@ -45,7 +45,7 @@ Introduction to New Orleans history: Colonization-present day
 
 Introduction to Katrina and Rita
 
-Watch: {{% resource_link "c1bd3392-664a-4f36-ad19-aa4aca5f44f8" "_When the Levees Broke_" %}}
+Watch: [_When the Levees Broke_](http://www.imdb.com/title/tt0783612/)
 
 
 {{< tdclose >}}

@@ -30,7 +30,7 @@ New Orleans history
 
 Lewis, Peirce F. _New Orleans: The Making of an Urban Landscape_. Center for American Places, 2003, pp. 1-36, 50-53, 65-70, 95-100, 124-129, 132-137, 143-147, and 154-171, Figures, 1-8, 11-12, 15a-16, 19-20, 45-46, 57-58, and 63. ISBN: 9781930066106.
 
-Campanella, Richard. "[An Ethnic Geography of New Orleans](http://news.aag.org/2017/10/an-ethnic-geography-of-new-orleans/#:~:text=This%20Journal%20of%20American%20History,antebellum%20times%20to%20post%2DKatrina.)." _Journal of American History_ 94 (December 2000): 714-715.
+Campanella, Richard. "{{% resource_link "4b5b3d5a-0e26-4f88-9552-30c5f10fc1ba" "An Ethnic Geography of New Orleans" %}}." _Journal of American History_ 94 (December 2000): 714-715.
 
 Logsdon, Joseph and Caryn Cossé Bell. Chaper 5 and 6.  In _Creole New Orleans: Race and Americanization_. Edited by Arnold R. Hirsch and Joseph Logsdon. Louisiana State University Press, 1992. ISBN: 9780807117743.
 
@@ -45,9 +45,9 @@ Hurricanes Katrina and Rita
 {{< tdopen >}}
 
 
-"[Louisiana Storm Protection: Past, Present and Future](http://www.loe.org/shows/segments.html?programID=06-P13-00022&segmentID=4)." _Living on Earth_ (June 2, 2006).
+"{{% resource_link "e01a0f78-b3d2-4834-ad82-949bec59cf16" "Louisiana Storm Protection: Past, Present and Future" %}}." _Living on Earth_ (June 2, 2006).
 
-Mohr, Clarence L. and Lawrence N. Powell. "[Through the Eye of Katrina: The Past as Prologue? An Introduction](https://academic.oup.com/jah/article/94/3/693/773328)." _Journal of American History_ 94 (December 2007): 693-694.
+Mohr, Clarence L. and Lawrence N. Powell. "{{% resource_link "958465a4-5e0e-4b47-84a7-98e3fa243698" "Through the Eye of Katrina: The Past as Prologue? An Introduction" %}}." _Journal of American History_ 94 (December 2007): 693-694.
 
 C&C Technologies Survey Services. "Levee Failure Map."
 
@@ -62,9 +62,9 @@ Debate after the storm
 {{< tdopen >}}
 
 
-Ouroussoff, Nicolai. "[History vs. Homogeneity in New Orleans Housing Fight](http://www.nytimes.com/2007/02/22/arts/design/22hous.html?_r=1&oref=slogin)." _The New York Times,_ February 22, 2007.
+Ouroussoff, Nicolai. "{{% resource_link "be1155e1-1d31-4e3b-86ff-1208e4800825" "History vs. Homogeneity in New Orleans Housing Fight" %}}." _The New York Times,_ February 22, 2007.
 
-Glaeser, Edward L. "Should the Government Rebuild New Orleans, Or Just Give Residents Checks?"  _The Economists' Voice_ 2, no. 4 (2005). ([PDF](http://are.berkeley.edu/~ligon/Teaching/EEP100/glaeser05.pdf))
+Glaeser, Edward L. "Should the Government Rebuild New Orleans, Or Just Give Residents Checks?"  _The Economists' Voice_ 2, no. 4 (2005). ({{% resource_link "f108139f-bbea-4879-a57f-86378fb88b58" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -77,9 +77,9 @@ Mardi Gras
 {{< tdopen >}}
 
 
-Mitchell, Reid. "[Carnival and Katrina](https://academic.oup.com/jah/article/94/3/789/775844)." _Journal of American History_ 94 (December 2007): 789-794.
+Mitchell, Reid. "{{% resource_link "9ddd487f-bf0b-4fad-b923-defb9944130f" "Carnival and Katrina" %}}." _Journal of American History_ 94 (December 2007): 789-794.
 
-"[Mardi Gras as History](https://www.pbs.org/wgbh/americanexperience/films/neworleans/)." PBS.com.
+"{{% resource_link "74c44779-5518-4a2c-84f6-0399a98bd08d" "Mardi Gras as History" %}}." PBS.com.
 
 
 {{< tdclose >}}
@@ -92,23 +92,23 @@ New Orleans today
 {{< tdopen >}}
 
 
-Wong, Elaine. "Rewinding to the Past: New Orleans Architecture." ([PDF](http://web.mit.edu/sigus/www/NEW/files/Rewinding_New_Orleans.pdf))
+Wong, Elaine. "Rewinding to the Past: New Orleans Architecture." ({{% resource_link "604bf910-e8dd-4c30-91f4-910e2bc60e49" "PDF" %}})
 
 "A Strategy for Rebuilding New Orleans, Louisiana." Urban Land Institute. November 12-18, 2005.
 
-[_Times-Picayune_ Interactive Flash Flood Animation](http://www.nola.com/katrina/index.ssf/2015/08/katrina_flooding_map.html).
+{{% resource_link "6cf72e02-5ee5-4d5d-a0bc-dcb459058ae9" "_Times-Picayune_ Interactive Flash Flood Animation" %}}.
 
-[_The Lens_](http://thelensnola.org/)\-an online investigative journal
+{{% resource_link "07f0059c-5e6b-434e-b6ed-9094465c4387" "_The Lens_" %}}\-an online investigative journal
 
-[Greater New Orleans Community Data Center](http://www.gnocdc.org/)
+{{% resource_link "3ccef464-bf8d-4db6-a1a0-269891d47928" "Greater New Orleans Community Data Center" %}}
 
-[City of New Orleans](http://www.nola.gov/)
+{{% resource_link "b4a3908f-f715-4c0d-b103-d4e37dd3e0dc" "City of New Orleans" %}}
 
-[New Orleans Neighborhood Development Collaborative](https://www.findglocal.com/US/New-Orleans/134680013225139/New-Orleans-Neighborhood-Development-Collaborative-%28NONDC%29)
+{{% resource_link "4ed9b69c-bbad-4f46-944a-4e353ee74ca6" "New Orleans Neighborhood Development Collaborative" %}}
 
-[New Orleans Redevelopment Authority](http://www.noraworks.org/)
+{{% resource_link "111f8a55-771f-4732-8867-446177c6c4c6" "New Orleans Redevelopment Authority" %}}
 
-[Richard Campanella's website](http://richcampanella.com/)
+{{% resource_link "88993561-5d86-4d8e-b60f-6fed4bfcefc3" "Richard Campanella's website" %}}
 
 
 {{< tdclose >}}
@@ -123,21 +123,21 @@ Background reading for projects
 
 _Zoning Project_
 
-Mowbray, Rebecca. "[Controversy Over New Romney Pilates Studio on Magazine Street May Lead to Reforms in City Planning, Permitting.](http://www.nola.com/business/index.ssf/2011/01/controvery_surrounding_new_rom.html)" _NOLA.com_. January 25, 2011.
+Mowbray, Rebecca. "{{% resource_link "77829d09-bdac-4f0d-8bf5-0bce380ac5d7" "Controversy Over New Romney Pilates Studio on Magazine Street May Lead to Reforms in City Planning, Permitting." %}}" _NOLA.com_. January 25, 2011.
 
  _Blight Project_
 
-[New Orleans Master Plan and Comprehensive Zoning Ordinance](https://worknola.com/employer/new-orleans-neighborhood-development-collaborative-0)
+{{% resource_link "d71e51d1-b3b0-4d6f-9886-101703d178b3" "New Orleans Master Plan and Comprehensive Zoning Ordinance" %}}
 
-"[Drifters Find Homes in Ruins Left by Hurricane Katrina](https://www.deseret.com/2011/2/12/20173286/ap-enterprise-drifters-find-home-in-katrina-ruins#in-this-tuesday-jan-18-2011-picture-a-homeless-person-is-covered-in-blankets-in-jackson-square-in-new-orleans-more-than-five-years-after-katrina-new-orleans-is-struggling-to-deal-with-more-than-40000-abandoned-properties-all-of-them-in-various-states-of-neglect-and-collapse-and-in-these-wastelands-an-estimated-3000-homeless-find-refuge-every-night)." _NOLA.com._ February 13, 2011.
+"{{% resource_link "0e63f5f5-923d-4519-bec5-36b351c4d7f9" "Drifters Find Homes in Ruins Left by Hurricane Katrina" %}}." _NOLA.com._ February 13, 2011.
 
  _Neighborhood Partnership Network_
 
-McKnight, John L. and John P. Kretzmann. "Mapping Community Capacity." The Asset-Based Community Development Institute. Institute for Policy Research, Northwestern University. 1996. ([PDF](https://resources.depaul.edu/abcd-institute/publications/Documents/1992_MappingCommunityCapacity.pdf))
+McKnight, John L. and John P. Kretzmann. "Mapping Community Capacity." The Asset-Based Community Development Institute. Institute for Policy Research, Northwestern University. 1996. ({{% resource_link "d1add1e0-ab65-4fb6-9af5-442fe031fe22" "PDF" %}})
 
 _Transit Oriented Development_
 
-Proakis, George John. "[Strategies for Design: Shaping Private Development Adjacent to Transit Stations](http://hdl.handle.net/1721.1/69441)." Submitted to the Department of Urban Studies and Planning. MIT. June 2002.
+Proakis, George John. "{{% resource_link "fcbb55dc-2c7f-491e-9d5e-39ab6b9a7f87" "Strategies for Design: Shaping Private Development Adjacent to Transit Stations" %}}." Submitted to the Department of Urban Studies and Planning. MIT. June 2002.
 
 
 {{< tdclose >}}
@@ -154,7 +154,7 @@ Basics of graphic design
 
 Zusy, Cathie. "Community Engagement with History: If This House Could Talk...;" _History News,_ Summer 2010.
 
-[Street Vendor Guide](http://candychang.com/work/street-vendor-guide/)
+{{% resource_link "8b4c10ec-5fdb-4944-8da4-83edbb849883" "Street Vendor Guide" %}}
 
 
 {{< tdclose >}}
@@ -178,9 +178,9 @@ Being a successful public speaker
 
 Presentation on oral presentations ({{% resource_link c1517847-99ae-9d76-16b8-262b024f381b "PDF" %}})
 
-[Barack Obama's remarks to the Democratic National Convention](http://www.nytimes.com/2004/07/27/politics/campaign/27TEXT-OBAMA.html?pagewanted=all). July 2004.
+{{% resource_link "34cd3214-830e-407c-af44-6f647c564b99" "Barack Obama's remarks to the Democratic National Convention" %}}. July 2004.
 
-[Bono's Class Day Address](http://www.threechordsandthetruth.net/u2bios/harvardspeech.php), Harvard University. June 6th, 2001.
+{{% resource_link "c5ea2b4a-a257-4c2d-9b3e-e04bd169e442" "Bono's Class Day Address" %}}, Harvard University. June 6th, 2001.
 
 
 {{< tdclose >}}
@@ -193,9 +193,9 @@ Tools for being a successful planner
 {{< tdopen >}}
 
 
-Nelson, Maria, Renia Ehrenfeucht, and S. Laska. "[Planning, Plans, and People: Professional Expertise, Local Knowledge, and Governmental Action in Post-Hurricane Katrina New Orleans](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1090161)_._" _Cityscape_ 9 no. 3 (2007).
+Nelson, Maria, Renia Ehrenfeucht, and S. Laska. "{{% resource_link "34f7ebc9-83e2-4891-a9dd-65ef48138467" "Planning, Plans, and People: Professional Expertise, Local Knowledge, and Governmental Action in Post-Hurricane Katrina New Orleans" %}}_._" _Cityscape_ 9 no. 3 (2007).
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262620956) Lynch, Kevin. "A Walk Around the Block." In _City Sense and City Design: Writing and Projects of Kevin Lynch._ MIT Press, 1995. pp. 185-204. ISBN: 9780262620956.
+{{% resource_link "cacc0ae4-0555-4729-9165-222e157ee652" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "A Walk Around the Block." In _City Sense and City Design: Writing and Projects of Kevin Lynch._ MIT Press, 1995. pp. 185-204. ISBN: 9780262620956.
 
 
 {{< tdclose >}}

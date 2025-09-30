@@ -10,7 +10,7 @@ uid: e4257a67-77b4-216f-41b2-deab0b53a919
 ---
 ## Writing Resources
 
-[Formal report components](https://web.archive.org/web/20111126141316/http://www.mccombs.utexas.edu/faculty/kristie.loescher/assignments/project%20report.htm)
+{{% resource_link "ecc6af66-658c-4b04-98f5-1e0f5079d2bf" "Formal report components" %}}
 
 Style Manual, Second Edition: For Preparing Contract and Consultant Reports for the California Energy Commission. ({{% resource_link "513ac19a-a313-4712-bb5c-b958461ff07e" "PDF" %}})
 
